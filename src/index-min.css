@@ -20,23 +20,23 @@
   box-sizing: border-box;
 }
 
-input,
-button {
+.content--form input,
+.content--form button {
   border: none;
   outline: none;
   border-radius: 3.75rem;
 }
 
-input,
-input::placeholder,
-button {
+.content--form input,
+.content--form input::placeholder,
+.content--form button {
   font-size: 0.875rem;
   font-weight: 600;
   letter-spacing: normal;
 }
 
-input,
-input::placeholder {
+.content--form input,
+.content--form input::placeholder {
   color: var(--text);
 }
 
