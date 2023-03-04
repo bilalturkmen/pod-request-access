@@ -20,7 +20,7 @@
 
 ## 🎉 Build With:
 
-- React + TypeScript and Vite builder
+- React + TypeScript
 - Semantic HTML5 markup
 - Css Flexbox
 - Mobile-first workflow
