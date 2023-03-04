@@ -24,7 +24,7 @@ function App() {
   };
 
   return (
-    <div className="main_cont">
+    <main className="main_cont">
       <div className="container">
         <div className="hero">
           <a href="/">
@@ -54,7 +54,7 @@ function App() {
         </div>
       </div>
       <div className="hero__pattern"></div>
-    </div>
+    </main>
   );
 }
 
