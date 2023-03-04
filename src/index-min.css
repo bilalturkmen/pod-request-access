@@ -36,6 +36,7 @@ button {
 input,
 input::placeholder,
 button {
+  font-family: var(--ff-primary);
   font-size: 0.875rem;
   font-weight: 600;
   letter-spacing: normal;
