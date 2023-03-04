@@ -47,7 +47,7 @@ body {
   font-size: 1.125rem;
   font-weight: 100;
   color: var(--text);
-  background: url(./assets/mobile/image-host.jpg) no-repeat;
+  background: url(../assets/mobile/image-host.jpg) no-repeat;
   background-size: cover;
 }
 
@@ -182,7 +182,7 @@ body {
     padding: 0;
     position: relative;
 
-    background: url(./assets/tablet/image-host.jpg) no-repeat;
+    background: url(../assets/tablet/image-host.jpg) no-repeat;
     background-position: top right;
   }
 
@@ -278,7 +278,7 @@ body {
   }
 
   .hero__pattern {
-    background: url(./assets/desktop/bg-pattern-dots.svg) no-repeat;
+    background: url(../assets/desktop/bg-pattern-dots.svg) no-repeat;
     height: 6.6rem;
     margin-left: -0.5rem;
   }
@@ -297,7 +297,7 @@ body {
     height: 40rem;
     margin-top: 3.2rem;
     align-self: flex-end;
-    background: url(./assets/desktop/image-host.jpg) no-repeat;
+    background: url(../assets/desktop/image-host.jpg) no-repeat;
     background-position: top right;
   }
 
