@@ -31,7 +31,7 @@ input,
 input::placeholder,
 button {
   font-size: 0.875rem;
-  font-weight: 600;
+  font-weight: 500;
 }
 
 input,
@@ -148,13 +148,13 @@ body {
 
 .content--welcome span a {
   color: var(--primary);
-  font-weight: 600;
+  font-weight: 500;
 }
 
 .content--error {
   color: var(--error);
   font-size: 0.75rem;
-  font-weight: 600;
+  font-weight: 500;
   height: 1rem;
   margin-top: 0.5rem;
   margin-left: 2rem;
