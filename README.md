@@ -12,7 +12,7 @@
 
 ## 👍 My Challenges:
 
-- used TypeScript for this solution.
+- used TypeScript.
 - implement email validating.
 - See hover states for all interactive elements on the page.
 
