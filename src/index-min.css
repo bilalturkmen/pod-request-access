@@ -243,7 +243,7 @@ body {
     height: calc(100% - 0.66rem);
     width: 10.125rem;
     margin: 0.33rem;
-    padding: 0 1.25rem;
+    padding: 0;
     cursor: pointer;
     background: var(--primary);
     color: hsl(var(--bkg));
